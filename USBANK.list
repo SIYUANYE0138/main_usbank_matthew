@@ -1,0 +1,31 @@
+# NAME: US BANK
+# AUTHOR: matthewye
+
+DOMAIN-KEYWORD,americanexpress
+DOMAIN-KEYWORD,chase
+DOMAIN-KEYWORD,citi
+DOMAIN-KEYWORD,capitalone
+DOMAIN-KEYWORD,bankofamerica
+DOMAIN-KEYWORD,wellsfargo
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,t-mobile
+DOMAIN-KEYWORD,uscreditcardguide
+DOMAIN-KEYWORD,equifax
+DOMAIN-KEYWORD,sofi
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,usbank
+DOMAIN-KEYWORD,fidelity
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,uscreditcardguide.com
+DOMAIN-SUFFIX,equifax.com
+DOMAIN-SUFFIX,sofi.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-SUFFIX,fidelity.com
