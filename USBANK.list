@@ -1,6 +1,6 @@
 # NAME: US BANK
 # AUTHOR: matthewye
-
+# US Flight
 DOMAIN-KEYWORD,americanexpress
 DOMAIN-KEYWORD,chase
 DOMAIN-KEYWORD,citi
@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,sofi.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,usbank.com
 DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,united.com
